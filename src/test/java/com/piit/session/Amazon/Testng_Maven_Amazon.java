@@ -20,6 +20,8 @@ public class Testng_Maven_Amazon {
 	  morcal.intrstsrate("4");
 	  morcal.submitbutton();
 	  
+	  System.out.println("checking github");
+	  
   }
   
   @BeforeClass
